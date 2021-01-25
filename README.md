@@ -1,6 +1,6 @@
 # システム名
-## 環境計測機(Environmental-measuring-machine)
-- システム概要
+- 環境計測機(Environmental-measuring-machine)
+# システム概要
 ## ENVセンサを使用し温度・湿度・気圧を計測しアップロード
 ## リモコン機能を使用してスマホから確認・停止・再開できるようにする
 - 気温を表す(℃) Temp
