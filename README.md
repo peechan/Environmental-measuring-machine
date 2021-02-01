@@ -8,3 +8,5 @@
 - 気圧を表す(Pa) Pres    
 の3つと、その更新を停止・再開するボタン(スマホ、M5StickCのどちらにも)を実装する。  
 計測については、HATのENV.Ⅱを使用する。
+
+ソースコードは[Environmental-measuring-machine](https://github.com/peechan/Environmental-measuring-machine/blob/main/Environmental-measuring-machine.m5f)のファイルを参照してください。
